@@ -1,0 +1,6 @@
+Timeline with states -----https://documenter.getpostman.com/view/7245444/SzYewbGb?version=latest
+
+States data - https://covid-19india-api.herokuapp.com/v2.0/state_data
+
+
+District data with other info - https://documenter.getpostman.com/view/10724784/SzYXXKmA?version=latest#2e7351b3-506d-4ec3-97c8-a832f2608d6a
